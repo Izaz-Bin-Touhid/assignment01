@@ -225,3 +225,85 @@ border-radius: 16px;
     display:flex;
     gap: 25px;
 }
+
+.donate{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pdonate{
+    font-size: 15px;
+    font-weight: normal;
+    color:rgba(14, 14, 14, 0.7)
+}
+
+.tk1{
+    height:50px;
+    width: 150px;
+    background-color: #f3f7f6;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.tk2{
+    height:50px;
+    width: 150px;
+    background-color: #f3f7f6;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.tk5{
+    height:50px;
+    width: 150px;
+    background-color: #f3f7f6;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.tk10{
+    height:50px;
+    width: 150px;
+    background-color: #f3f7f6;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+ 
+.tk10:hover{
+    background: #006A50;
+}
+
+.tk5:hover{
+    background: #006A50;
+}
+.tk2:hover{
+    background: #006A50;
+}
+.tk1:hover{
+    background: #006A50;
+}
+
+.inputtk{
+    text-align: center;
+    font-size: small;
+    height: 50px;
+    width: 700px;
+}
+
+.btntk{
+    background-color: #e1edea;
+    color: rgb(40, 42, 44);
+    height:50px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: bold;
+    left:left;
+    border-radius: 5px;
+
+}
+
+.btntk:hover{
+    background-color: #006A50;
+}
